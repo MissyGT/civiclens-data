@@ -1,2 +1,2 @@
 # civiclens-data
-Civic Lens voting guide
+CivicLens candidate data — nonpartisan voter guide for U.S. elections.
