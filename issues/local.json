@@ -1,0 +1,12 @@
+{
+  "level": "local",
+  "issues": [
+    { "key": "homelessness", "icon": "🏠", "label": "Homelessness & Encampments" },
+    { "key": "housing",      "icon": "🏗",  "label": "Housing & Land Use" },
+    { "key": "crime",        "icon": "🚔", "label": "Crime & Public Safety" },
+    { "key": "transport",    "icon": "🚌", "label": "Transportation" },
+    { "key": "environment",  "icon": "🌿", "label": "Environment & Climate" },
+    { "key": "governance",   "icon": "🏛",  "label": "Governance & Budget" },
+    { "key": "education",    "icon": "🎓", "label": "Education & Youth" }
+  ]
+}
