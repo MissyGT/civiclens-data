@@ -1,0 +1,51 @@
+{
+  "lastUpdated": "2026-08-21",
+  "elections": [
+    {
+      "id": "CA-2026-midterm",
+      "state": "CA",
+      "stateName": "California",
+      "label": "2026 Midterm",
+      "date": "2026-11-03",
+      "status": "live",
+      "types": ["Federal", "State", "Local"],
+      "paths": {
+        "federalSenate": "elections/CA/2026-midterm/federal-senate.json",
+        "federalHouse":  "elections/CA/2026-midterm/federal-house.json",
+        "state":         "elections/CA/2026-midterm/state.json",
+        "local":         "elections/CA/2026-midterm/local.json",
+        "election":      "elections/CA/2026-midterm/election.json"
+      }
+    },
+    {
+      "id": "TX-2026-midterm",
+      "state": "TX",
+      "stateName": "Texas",
+      "label": "2026 Midterm",
+      "date": "2026-11-03",
+      "status": "coming-soon",
+      "types": [],
+      "paths": {}
+    },
+    {
+      "id": "NY-2026-midterm",
+      "state": "NY",
+      "stateName": "New York",
+      "label": "2026 Midterm",
+      "date": "2026-11-03",
+      "status": "coming-soon",
+      "types": [],
+      "paths": {}
+    },
+    {
+      "id": "FL-2026-midterm",
+      "state": "FL",
+      "stateName": "Florida",
+      "label": "2026 Midterm",
+      "date": "2026-11-03",
+      "status": "coming-soon",
+      "types": [],
+      "paths": {}
+    }
+  ]
+}
