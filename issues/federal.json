@@ -1,0 +1,15 @@
+{
+  "level": "federal",
+  "issues": [
+    { "key": "economy",       "icon": "📈", "label": "Economy & Jobs" },
+    { "key": "taxes",         "icon": "🧾", "label": "Taxes & Spending" },
+    { "key": "healthcare",    "icon": "🏥", "label": "Healthcare" },
+    { "key": "immigration",   "icon": "🌐", "label": "Immigration" },
+    { "key": "environment",   "icon": "🌿", "label": "Environment & Climate" },
+    { "key": "housing",       "icon": "🏗",  "label": "Housing & Affordability" },
+    { "key": "crime",         "icon": "🚔", "label": "Crime & Public Safety" },
+    { "key": "civilRights",   "icon": "⚖️",  "label": "Civil Rights & Liberties" },
+    { "key": "foreignPolicy", "icon": "🤝", "label": "Foreign Policy & Defense" },
+    { "key": "governance",    "icon": "🏛",  "label": "Governance & Democracy" }
+  ]
+}
