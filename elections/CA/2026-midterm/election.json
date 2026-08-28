@@ -1,0 +1,45 @@
+{
+  "id": "CA-2026-midterm",
+  "state": "CA",
+  "stateName": "California",
+  "label": "2026 Midterm Election",
+  "date": "2026-11-03",
+  "primaryDate": "2026-06-02",
+  "status": "live",
+  "description": "California 2026 Midterm Election covering Federal (U.S. Senate and all 52 House districts), Statewide offices, and select Local races.",
+  "sources": [
+    "https://www.sos.ca.gov",
+    "https://ballotpedia.org/California_2026_elections",
+    "https://www.fec.gov",
+    "https://votesmart.org"
+  ],
+  "races": {
+    "federal": {
+      "senate": {
+        "label": "U.S. Senate",
+        "seats": 1,
+        "note": "Full 6-year term. CA uses top-two primary — two candidates advance regardless of party."
+      },
+      "house": {
+        "label": "U.S. House of Representatives",
+        "seats": 52,
+        "note": "All 52 CA congressional districts on the ballot."
+      }
+    },
+    "state": {
+      "offices": [
+        "Governor",
+        "Lieutenant Governor",
+        "Attorney General",
+        "Secretary of State",
+        "State Controller",
+        "State Treasurer",
+        "Insurance Commissioner",
+        "Superintendent of Public Instruction"
+      ]
+    },
+    "local": {
+      "note": "Local races vary by jurisdiction. Currently covering Los Angeles City and County races."
+    }
+  }
+}
